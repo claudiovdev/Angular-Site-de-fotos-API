@@ -1,0 +1,51 @@
+
+#imagens{
+    background-color: #363434;
+    margin-top: -50px;
+    width: 100%;
+}
+
+#imagens h2{
+    color: rgb(241, 225, 225);
+}
+
+#imagens p {
+    color: rgb(241, 225, 225);
+}
+.card {
+    background-color: #535151;
+}
+.card img{
+    width: 21rem;
+    height: 20rem;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+
+.card p{
+    padding: 6px;
+    color: rgb(241, 225, 225);;
+    
+}
+.card a{
+    padding: 3px;
+    align-items: center;
+    text-decoration: none;
+    color: rgb(241, 225, 225);
+    background-color: rgb(248, 141, 18);
+    border: black 1px solid;
+    border-radius: 0.8rem;
+    align-items: center;
+    -webkit-transition: background-color 1s ease-out;
+    -moz-transition: background-color 1s ease-out;
+    -o-transition: background-color 1s ease-out;
+    transition: background-color 1s ease-out;
+}
+.card  a:hover{
+    text-decoration: none;
+    background-color: rgb(253, 237, 14);
+    color: rgb(0, 0, 0);
+    
+    
+}
